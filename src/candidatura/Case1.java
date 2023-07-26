@@ -1,5 +1,5 @@
 package candidatura;
-public class App {
+public class Case1 {
     public static void main(String[] args) throws Exception {
         analisarSalarioPretendido(2500.00);
         analisarSalarioPretendido(2000.00);
